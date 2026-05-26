@@ -1,11 +1,11 @@
 {
-    "version": "2.10.17",
+    "version": "2.10.18",
     "download_url": "https://github.com/copiastudiost3/Task_Update/releases/latest/download/task.zip",
-    "sha256": "50325ad0d058328756a985f5cf705b48cdb37bd2b5d41078b39e961a7f263906",
+    "sha256": "83f4c7d299b446073925d4e3fb56454e35110f3f98fdf194856d9b106167326f",
     "changelog": "Aggiornamento generale",
-    "release_date": "2026-05-25",
+    "release_date": "2026-05-26",
     "encrypted": true,
     "asset_name": "task.zip",
-    "original_sha256": "2d3bb191576ae3f4b07ad196dbc718fc95df8ba5aebaba2c4187aa3ae00614b1",
+    "original_sha256": "0c90212ff1a0475b042a762726da5c89809d61595bcaae94e9a3ee544d7ddcf4",
     "source_name": "task.exe"
 }
